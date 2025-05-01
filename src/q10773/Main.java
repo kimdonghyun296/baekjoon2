@@ -14,6 +14,9 @@ public class Main {
 		
 		for(int i=0;i<num1;i++)
 		{
+			
+			
+			
 			int num2=sc.nextInt();
 			if(num2==0)
 			{
